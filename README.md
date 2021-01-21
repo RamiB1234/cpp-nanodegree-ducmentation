@@ -36,5 +36,6 @@ The project was to optimize a chatbot. Applying many concepts like smart pointer
 ### [Project: Concurrent Traffic Simulator](https://github.com/RamiB1234/concurrent-traffic-simulator)
 Here I learned how to write multi-threaded programs in C++ to take advantage of todat's multi-core processor architicture. It was fun and easy to learn. The course project was to build a concurrent traffic simulator that has cars, traffic lights and intersection. Each runs in its own thread.
 
-## [Pong Game](https://github.com/RamiB1234/pong-cpp)
+
+## [Final Project: Pong Game](https://github.com/RamiB1234/pong-cpp)
 Finally, in the capstone project, I decided to make a clone of the classic [Pong](https://en.wikipedia.org/wiki/Pong) game. The player controls the player on the left side, while the right character is controlled using a baisc AI. I used [SDL](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer) library to handle a lot of the heavy-lifting such as rendering and input handling. I made a basic collision detection system as well.
