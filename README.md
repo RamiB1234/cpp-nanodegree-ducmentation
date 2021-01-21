@@ -28,7 +28,7 @@ In this course, I learned the OOP part of C++ (Yes, it supports C style linear-p
 
 ## Memory Management
 ### [Project: Chatbot](https://github.com/RamiB1234/memory-management-chatbot)
-This was the most interesting part of the nanodegree. Coming from [.NET Framwork](https://en.wikipedia.org/wiki/.NET_Framework) background, in which a lot the heavy lifting is handled by the runtime, here I had my hand dirty with memory management my self. There's no garbage collector in C++ so the programmer must clean after himself and be careful not to access a memory location that doesn't belong to our program. This course opened my eyes and made me realize that I sometimes abuse memory and leave a lot of memory footprints all over the place, because the garbage collector will so its job. This will make my write more memory effeicent programs and also appearicate the .NET runtime even more. 
+This was the most interesting part of the nanodegree. Coming from [.NET Framwork](https://en.wikipedia.org/wiki/.NET_Framework) background, in which a lot the heavy lifting is handled by the runtime, here I got my hands dirty with memory management my self. There's no garbage collector in C++ so the programmer must clean after himself and be careful not to access a memory location that doesn't belong to our program. This course opened my eyes and made me realize that I sometimes abuse memory and leave a lot of memory footprints all over the place, because the garbage collector will do the job for me. This will make me write more memory effeicent software and also make me appearicate the .NET runtime even more. 
 
 The project was to optimize a chatbot. Applying many concepts like smart pointers, the rule of five and move semantics to do the job.
 
